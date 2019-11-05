@@ -4,3 +4,5 @@
 - [《敏捷项目手册》目录](https://github.com/ibehujun/blog/issues/1)
 - [《团队教练手册》目录](https://github.com/ibehujun/blog/issues/2)
 - [《会议引导手册》目录](https://github.com/ibehujun/blog/issues/3)
+
+如果你有反馈，欢迎[提交Issue](https://github.com/ibehujun/blog/issues/new)，谢谢！
